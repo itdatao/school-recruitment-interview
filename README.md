@@ -16,3 +16,14 @@
 
 ## Netty学习笔记
  - [Netty](https://www.yuque.com/docs/share/19175f21-88a8-49d0-bab4-d15ef19b5eef)
+## 比较好的开源作品
+- [GitHub/Gitee收藏](https://www.yuque.com/docs/share/8f48b6c0-cd79-4081-8ae6-9f7ee2c8e6d6)
+## 动态数据结构与算法
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- https://visualgo.net/zh
+- https://algorithm-visualizer.org/
+- http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html
+
+## 一些刷题网站
+- [基础知识题目（选择，问答推荐牛客网）](https://www.nowcoder.com/)
+- [编程题力扣](https://leetcode-cn.com/)
